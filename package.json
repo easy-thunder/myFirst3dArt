@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://easy-thunder.github.io/myFirst3dArt/",
+  "homepage": "http://easy-thunder.github.io/myFirst3dArt/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
